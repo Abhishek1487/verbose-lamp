@@ -1,5 +1,5 @@
 # verbose-lamp
-Using MCMC(Markov Chain Monte Carlo) to model customers in Telecommunications Industry
+Using MCMC(Markov Chain Monte Carlo) to model customers in Telecommunications Industry. 
 Markov Chain Monte Carlo (MCMC) methods are commonly used in statistics and machine learning to approximate complex probability distributions, and can be useful for modeling customer behavior in the telecommunications industry.
 
 Customer churn is a critical issue for companies in this industry, as losing customers can have significant financial implications. MCMC methods can help identify factors that contribute to customer churn, such as customer demographics, usage patterns, or service quality.
